@@ -30,7 +30,7 @@ int main(){
    cout << "Wrong input. Please input again.\n";
   
 
-  } 
+  }  
  }while(true);
  
  
